@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" tiledversion="1.1.5" orientation="isometric" renderorder="right-down" width="11" height="9" tilewidth="32" tileheight="16" infinite="0" nextobjectid="1">
+ <tileset firstgid="1" name="white_grey_xoffset_0__yoffset_0" tilewidth="32" tileheight="16" tilecount="2" columns="2">
+  <image source="tsx/gfx/png/32x16/white_grey_xoffset_0__yoffset_0.png" trans="ff00ff" width="64" height="16"/>
+ </tileset>
+ <tileset firstgid="3" source="tsx/green_xoffset_16__yoffset_0.tsx"/>
+ <tileset firstgid="7" source="tsx/aqua_xoffset_0__yoffset_17.tsx"/>
+ <tileset firstgid="15" source="tsx/salmon_xoffset_13__yoffset0.tsx"/>
+ <layer name="WhiteNGrey_Layer_0" width="11" height="9">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC2NkYGBgJAEzIWF84qxAzAbEgkAshKQGm5nUVovPDdj8g8+PuPxLCwwAVM5Z9YwBAAA=
+  </data>
+ </layer>
+</map>
